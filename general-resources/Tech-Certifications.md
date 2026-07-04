@@ -341,6 +341,6 @@ _Linux certs validate the foundation that every DevOps, DevSecOps, cloud, and se
 |Project Manager|CAPM|CSM or PSM I|PMP|
 |IT Manager / Director|ITIL 4|PMP|CISM or CRISC|
 
-If you want to see the full list of jobs along with their salary and requirements click [Here](./Salary-Requirement.md)
+If you want to see the full list of jobs along with their salary and requirements click [Here](./Salary-Requirements.md)
 
 ---
