@@ -221,4 +221,6 @@
 |CISA|Audit, compliance, GRC|Strong for IS audit and compliance-track roles|
 |PMP|IT Project Manager, PM-adjacent roles|Standard expectation at mid-level PM roles|
 
+If you want to see the full list of the best certifications across some of the major tech fields click [Here](./Tech-Certifications.md)
+
 ---
