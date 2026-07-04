@@ -7,8 +7,11 @@
 
 🔗 **freeCodeCamp — Responsive Web Design, JavaScript, & Front-End Dev Certs**  
 [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
+
 [JavaScript](https://www.freecodecamp.org/learn/javascript-v9/)
+
 [Front-End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/)
+
 — These are project based, and free courses, with projects that lead to certifications at the end. These are considered the strongest free path into frontend. Good starting point for absolute beginners.
 
 🔗 **The Odin Project**  
